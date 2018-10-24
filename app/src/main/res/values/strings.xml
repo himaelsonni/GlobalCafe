@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="phone">Phone :</string>
+    <string name="email">e-mail :</string>
+    <string name="work_hours">work hours :</string>
+    <string name="address">Address</string>
+    <string name="number">09009231</string>
+    <string name="gmail">globalcafe@gmail.com</string>
+    <string name="adress_txt">Elsoltan Hussien street Aamar mall first floor</string>
+    <string name="global_cafe">Global Cafe</string>
+    <string name="logo">Logo</string>
+</resources>
